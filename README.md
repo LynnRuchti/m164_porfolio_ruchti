@@ -6,6 +6,16 @@ Dieses Repository dokumentiert meine Arbeit und Lernerfahrungen im Modul **M164 
 Das Portfolio enthält handschriftliche Notizen, welche zentrale Konzepte, Konfigurationen und Zusammenfassungen aus dem Unterricht festhalten.  
 Ziel ist es, das Gelernte zu reflektieren und ein persönliches Nachschlagewerk zu schaffen, das auch für zukünftige Projekte oder die Prüfungsvorbereitung hilfreich ist.
 
+---
+
+## Inhaltsverzeichnis
+
+1. [Notizen](#notizen)
+2. [Reflexion](#reflexion)
+
+---
+
+## Notizen
 
 ![Alternativtext](https://github.com/LynnRuchti/m164_porfolio_ruchti/blob/main/M164%20notes/1.jpg)
 ![Alternativtext](https://github.com/LynnRuchti/m164_porfolio_ruchti/blob/main/M164%20notes/2.jpg)
